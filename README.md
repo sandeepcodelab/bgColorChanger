@@ -2,9 +2,9 @@
 
 A simple React project that allows users to change the background color dynamically.
 
-## Demo
+## Preview
 
-(Add a link or screenshot here if available)
+![bgColorChanger Screenshot](./src/assets/bgcolorchanger.png)
 
 ## Features
 
