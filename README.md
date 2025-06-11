@@ -16,15 +16,16 @@ A simple React project that allows users to change the background color dynamica
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/sandeepcodelab/bgColorChanger.git
-
+git clone https://github.com/sandeepcodelab/bgColorChanger.git && exit
 
 2. Navigate to the project directory:
+
 cd bgColorChanger
 
 3. Install dependencies:
 
 npm install
+
 # or
+
 yarn install
